@@ -1,6 +1,6 @@
 const { fruitByTaste } = require("./objectIteration");
 
-xdescribe("🌶️🌶️🌶️ Challenge", () => {
+describe("🌶️🌶️🌶️ Challenge", () => {
   let fruits;
 
   beforeEach(() => {
